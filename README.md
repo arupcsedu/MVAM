@@ -1,4 +1,4 @@
-# HeartBleed
+# MVAM
 Side Channel Attacks on IoT Trust Computing
 
 ## Installation guidlines of NXPLPC55S69: 
@@ -118,7 +118,7 @@ Step #2 - Get Software
 
 ## Setup project directory:
 1. Git clone :
-2. $ git clone https://github.com/arupcsedu/HeartBleed.git
+2. $ git clone https://github.com/arupcsedu/MVAM.git
 3. $ cd HeartBleed
 
 You will see one  secure app and another non secure app. Open both app by using MCUEXpress IDE.
